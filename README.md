@@ -1,6 +1,6 @@
 ### Hi there 👋
 my name is Sérgio Carvalho <br>
-i'm devclub student <br>
+i'm Dio student <br>
 i'm currently learn ...<br/>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
