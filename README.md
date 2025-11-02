@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sérgio Carvalho
+# 👋 Hi, I'm Sérgio Carvålho
 
 💻 **Junior Developer in training** | 🥊 **Professional Boxer** | 🚀 **Driven by technology, discipline, and growth**
 
@@ -38,7 +38,7 @@ I’m currently improving my skills in **Java**, **Spring Boot**, and **Front-En
 ---
 
 ### 📈 GitHub Stats
-![Sérgio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergio-carvalho&show_icons=true&theme=tokyonight)
+![protitanwork GitHub stats](https://github-readme-stats.vercel.app/api?username=sergio-carvalho&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-carvalho&layout=compact&theme=tokyonight)
 
