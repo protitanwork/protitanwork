@@ -38,9 +38,10 @@ I’m currently improving my skills in **Java**, **Spring Boot**, and **Front-En
 ---
 
 ### 📈 GitHub Stats
-![protitanwork GitHub stats](https://github-readme-stats.vercel.app/api?username=sergio-carvalho&show_icons=true&theme=tokyonight)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=protitanwork&show_icons=true&theme=tokyonight)](https://github.com/protitanwork)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-carvalho&layout=compact&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=protitanwork&layout=compact&theme=tokyonight)
 
 ---
 
